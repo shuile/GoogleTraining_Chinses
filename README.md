@@ -1,0 +1,2 @@
+# GoogleTraining_Chinses
+GoogleTraning中文版
